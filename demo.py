@@ -1,5 +1,3 @@
-# Kadane's Algorithm - Pure Logical Beginner-Friendly Version
-
 # Ask the user for numbers
 user_input = input("Enter numbers separated by spaces: ")
 
